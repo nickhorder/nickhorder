@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nickhorder
-- 👀 I’m interested in C#, C++, ASP.NET, Python, Javascript 
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on nothing at the moment, as I'm new to it all :) 
+- 👀 I’m interested in C#, C++, Java 
+- 🌱 I’m currently learning C# & Java
 - 📫 How to reach me- DM
 
 <!---
